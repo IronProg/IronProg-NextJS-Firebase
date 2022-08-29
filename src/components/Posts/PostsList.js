@@ -1,7 +1,7 @@
 import NextLink from 'next/link'
 import { Heading, SimpleGrid, VStack, Text, useColorModeValue } from "@chakra-ui/react";
 
-export default function (props) {
+export default function PostsList (props) {
   const cardColor = useColorModeValue('blue.50', 'gray.900')
   const entries = props.entries;
   const link = props.linkType === "normal" ? `/posts/` : `/admin/edit/`
