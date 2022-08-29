@@ -20,3 +20,7 @@ To run locally on your pc, you need only to do the following:
 4. Create a Firestore Database in Firebase <a href='https://firebase.google.com/products/firestore'>FireStore Tutorial by Google</a>;
 5. Generate a Service Account and write that data inside a file inside (PROJECTFOLDER)/src/utils/db/ServiceAccountKey.json
 6. Run <code>npm run dev</code> to run locally in your machine :D
+
+## Check out the website!
+If you want to see it by your own eyes, check it out on my <a href='https://vercel.com/ironprog/next-js-firestore'>Vercel Page</a>
+Also, feel free to post anything you want, but please, be reasonable
