@@ -6,9 +6,9 @@ Hello, my name is Iron Berny and this is one of my projects!
 
 This program mas made, mainly, using the following technologies:
 
-- Chakra UI - Style Library for JS Frameworks
-- NextJS - ReactJS Framework (React made stronger)
-- Firebase - Easy-to-use NoSQL Database from Google
+- <a href='https://chakra-ui.com/'>Chakra UI</a> - Style Library for JS Frameworks
+- <a href='https://nextjs.org/'>NextJS</a> - ReactJS Framework (React made stronger)
+- <a href='https://firebase.google.com/'>Firebase</a> - Easy-to-use NoSQL Database from Google
 
 ## How to run
 
