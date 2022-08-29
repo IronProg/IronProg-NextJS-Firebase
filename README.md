@@ -22,5 +22,5 @@ To run locally on your pc, you need only to do the following:
 6. Run <code>npm run dev</code> to run locally in your machine :D
 
 ## Check out the website!
-If you want to see it by your own eyes, check it out on my <a href='https://vercel.com/ironprog/next-js-firestore'>Vercel Page</a>
+If you want to see it by your own eyes, check it out on my <a href='https://next-js-firestore.vercel.app/posts'>Vercel Page</a>
 Also, feel free to post anything you want, but please, be reasonable
